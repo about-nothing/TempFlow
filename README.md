@@ -1,2 +1,2 @@
 # TempFlow
-My goal is to observe the groundwater flow more closely by monitoring its temperature records, , and vice versa.
+My goal is to observe the earth more closely by monitoring its temperature records, , and vice versa.
